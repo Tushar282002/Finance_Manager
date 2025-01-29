@@ -164,3 +164,12 @@ The application can be deployed to any static hosting service:
 
 3. Configure environment variables in your hosting platform
 
+## Deploye link: https://financemanagertusharg.netlify.app/
+
+
+
+## For testing
+### (Created a sample so no need to sign up/ create an account)
+- Email: xyz@gmail.com
+- Password: xyz@123
+
