@@ -110,7 +110,7 @@ src/
 2. **Environment Setup**
    ```bash
    # Clone the repository
-   git clone <repository-url>
+   git clone https://github.com/Tushar282002/Finance_Manager
 
    # Install dependencies
    npm install
@@ -164,14 +164,3 @@ The application can be deployed to any static hosting service:
 
 3. Configure environment variables in your hosting platform
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
