@@ -169,7 +169,7 @@ The application can be deployed to any static hosting service:
 
 
 ## For testing
-### (Created a sample so no need to sign up/ create an account)
+### (Sample Credentials for Testing)
 - Email: xyz@gmail.com
 - Password: xyz@123
 
